@@ -11,7 +11,7 @@ namespace AutoPartsStore.Pages
         {
             _logger = logger;
         }
-
+        //TODO: start front
         public void OnGet()
         {
 
