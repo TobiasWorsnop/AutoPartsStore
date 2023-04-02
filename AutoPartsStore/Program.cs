@@ -13,6 +13,8 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+//TODO:start back
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
